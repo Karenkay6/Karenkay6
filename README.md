@@ -7,9 +7,9 @@ Future Software Engineer | Building at the intersection of technology, healthcar
 
 ---
 
-### `whoami`
+### `who am i`
 
-Hi, I'm Tochi — a Computer Science student at The University of Texas at San Antonio.
+Hi, I'm Tochi — a Computer Science student at *The University of Texas at San Antonio*.
 
 I like building projects that solve real problems, especially when technology can make something confusing, repetitive, or inaccessible a little easier.
 
@@ -19,7 +19,7 @@ When I'm not coding, I'm probably listening to music, reading, traveling, taking
 
 ---
 
-### `cat ~/toolbox.md`
+### `toolbox.`
 
 **Languages**
 
